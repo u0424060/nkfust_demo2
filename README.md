@@ -9,4 +9,4 @@
 
 :date:
 
-![SCARE]("images.jpg "嚇到吃手手")
+!("images.jpg "嚇到吃手手")
